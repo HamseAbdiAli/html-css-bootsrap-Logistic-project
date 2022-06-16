@@ -1,0 +1,235 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.navbar-nav{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+.header{
+    height: 700px;
+    width: 100%;
+    background-image: url(./L-Images/home\ img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header p,h1{
+    margin-top: 150px;
+   color: rgb(146, 42, 42);
+}
+
+.header p{
+    font-size: 27px;
+    font-weight: 700;
+}
+.header h1{
+    font-size: 50px;
+}
+
+
+.header .btn{
+    padding: 10px 30px;
+    letter-spacing: 1px;
+    margin-top: 10PX;
+}
+
+.icons i{
+    color: rgb(233, 22, 22);
+    font-size: 60px; 
+    cursor: pointer;
+}
+
+.icons h3:hover{
+    color: rgb(233, 22, 22);
+    cursor: pointer;
+}
+
+
+.titles h1{
+    letter-spacing: 8px;
+    text-transform:uppercase;
+    font-size: 29px;
+}
+
+.titles span{
+    background-color: rgb(146, 42, 42);
+
+}
+
+
+.card-title{
+    letter-spacing: 3px;
+}
+
+
+/*-----Services Section-------*/
+
+.card-body .btn{
+    text-decoration: none;
+    font-size: large;
+    font-weight: 600;
+}
+
+/*-----color Overlay Section------*/
+.img-gradeint{
+    background: url(./L-Images/home1.jpg);
+    color:white;
+    font-size: 50px;
+    position: relative;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   height: 450px;
+   width: 100%;
+   background-size: cover;
+}
+.color-overlay{
+    background: rgb(27, 27, 27);
+    opacity: .6;
+    width: 100%;
+    height: 450px;
+    position: absolute;
+}
+
+
+.img-gradeint h2{
+    z-index: 1;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-top: 16px;
+}
+
+.img-gradeint a{
+    z-index: 1;
+}
+.img-gradeint a{
+    padding: 10px 30px;
+    letter-spacing: 1px;
+    margin-top: 10PX;
+
+}
+
+
+/*-----Sercives color Overlay Section------*/
+.img-gradeint2{
+    background: url(./L-Images/services\ we\ do.jpg);
+    color:white;
+    font-size: 50px;
+    position: relative;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   height: 450px;
+   width: 100%;
+   background-size: cover;
+}
+.color-overlay{
+    background: rgb(27, 27, 27);
+    opacity: .6;
+    width: 100%;
+    height: 450px;
+    position: absolute;
+}
+
+
+.img-gradeint2 h2{
+    z-index: 1;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-top: 16px;
+}
+
+
+/*-----About Us color Overlay Section------*/
+.img-gradeint3{
+    background: url(./L-Images/about\ uspage.jpg);
+    color:white;
+    font-size: 50px;
+    position: relative;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   height: 450px;
+   width: 100%;
+   background-size: cover;
+}
+.color-overlay{
+    background: rgb(27, 27, 27);
+    opacity: .6;
+    width: 100%;
+    height: 450px;
+    position: absolute;
+}
+
+
+.img-gradeint3 h2{
+    z-index: 1;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-top: 16px;
+}
+
+
+/*-----Contact Us color Overlay Section------*/
+.img-gradeint4{
+    background: url(./L-Images/contact\ us\ page1.jpg);
+    color:white;
+    font-size: 50px;
+    position: relative;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   height: 450px;
+   width: 100%;
+   background-size: cover;
+}
+.color-overlay{
+    background: rgb(27, 27, 27);
+    opacity: .6;
+    width: 100%;
+    height: 450px;
+    position: absolute;
+}
+
+
+.img-gradeint4 h2{
+    z-index: 1;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-top: 16px;
+}
+/*-----About Us Section------*/
+.imgshadow img{
+    box-shadow: 15px 15px rgb(202, 57, 57);
+}
+
+.about-us .btn {
+    padding: 12px 35px;
+    
+}
+
+ /*-----Contact Section-------*/
+ .roundedbtn a{
+     padding: 10px 43px;
+ }
+
+
+
+ /*-----Footer Section-------*/
+
+ footer{
+     background-color: lightgray;
+ }
+ footer i{
+     font-size: 28px;
+ }
+
+
+
+
+
